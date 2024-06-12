@@ -20,10 +20,7 @@ module.exports = {
       gray2: "#525a76",
 
     },
-    backgroundImage: {
-      'feature-section-2BG': "url('/images/FY24BingMonthlyPC_June_1600x600.png')",
-
-    },
+   
     screens: {
       'ssm': '349px',
       'sm': '640px',
